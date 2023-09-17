@@ -1,0 +1,8 @@
+//
+// Created by twenty on 9/17/23.
+//
+
+#ifndef CASESTUDY1_STUDENTDATABASE_H
+#define CASESTUDY1_STUDENTDATABASE_H
+void dbMenu();
+#endif //CASESTUDY1_STUDENTDATABASE_H
